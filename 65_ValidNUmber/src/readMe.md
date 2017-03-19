@@ -18,3 +18,6 @@ For example:
 0.1e
 .e2
 
+In that case, test cases are so complex.
+Some of them are orthodox.
+Use regular match is a good way.
